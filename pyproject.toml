@@ -1,0 +1,12 @@
+[project]
+name = "screen-recording"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "keyboard>=0.13.5",
+    "mss>=10.1.0",
+    "numpy>=2.3.3",
+    "opencv-python>=4.11.0.86",
+]

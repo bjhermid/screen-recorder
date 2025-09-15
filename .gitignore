@@ -15,3 +15,7 @@ Thumbs.db
 .dist/
 build/
 dist/
+
+#ignore All Screen Recording Output
+data/*
+!data/.gitkeep
